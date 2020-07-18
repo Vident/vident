@@ -1,0 +1,21 @@
+{
+  "name": "@vident/core-frontend",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@vident/eslint-config-frontend": "^1.0.1",
+    "eslint": "^7.4.0",
+    "@vident/eslint-config-common": "^1.0.0",
+    "@typescript-eslint/parser": "^3.6.1",
+    "@typescript-eslint/eslint-plugin": "^3.6.1",
+    "typescript": "^3.9.7",
+    "eslint-plugin-react": "^7.20.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
