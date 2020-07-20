@@ -1,7 +1,8 @@
 module.exports = {
   someSidebar: {
-    Vident: ['intro', 'doc2', 'doc3'],
+    Vident: ['intro'],
     Architure: ['architecture/choices'],
-    Features: ['mdx'],
+    Plugins: ['plugins/plugins', 'plugins/create-plugin'],
+    'Special Plugins': ['plugins/specials/graphqlspecial']
   },
 };

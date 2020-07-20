@@ -8,12 +8,13 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@vident/eslint-config-backend": "^1.0.1",
-    "eslint": "^7.4.0",
-    "@typescript-eslint/parser": "^3.6.1",
     "@typescript-eslint/eslint-plugin": "^3.6.1",
-    "@vident/eslint-config-common": "1.0.0",
-    "typescript": "^3.9.7"
+    "@typescript-eslint/parser": "^3.6.1",
+    "@vident/eslint-config-backend": "^1.0.1",
+    "@vident/eslint-config-common": "1.0.1",
+    "eslint": "^7.4.0",
+    "typescript": "^3.9.7",
+    "@vident/types": "^1.0.0-alpha.3"
   },
   "author": "Remy Villulles",
   "license": "MIT"
