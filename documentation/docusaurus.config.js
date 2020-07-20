@@ -2,7 +2,7 @@ module.exports = {
   title: 'Vident',
   tagline: 'A modular fullstack react framework',
   url: 'https://vident.github.io/vident/',
-  baseUrl: '/',
+  baseUrl: '/vident/',
   favicon: 'img/favicon.ico',
   organizationName: 'Vident', // Usually your GitHub org/user name.
   projectName: 'vident', // Usually your repo name.
